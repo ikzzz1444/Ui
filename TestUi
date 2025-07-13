@@ -7,7 +7,7 @@ local VirtualUser = game:GetService("VirtualUser")
 
 task.spawn(function()
 	pcall(function()
-		if game.PlaceId == 3623096087 then
+		if game.PlaceId == 4835383112 then
 			if game.Workspace:FindFirstChild("RobloxForwardPortals") then
 				game.Workspace.RobloxForwardPortals:Destroy()
 			end
